@@ -1,0 +1,47 @@
+{
+    "neoplastic": [
+        "A high-power H&E micrograph showing malignant tumor cell nests.",
+        "40× histology image of neoplastic cancer epithelium in human tissue.",
+        "H&E-stained section depicting solid tumor region with pleomorphic nuclei.",
+        "Histopathology slide featuring invasive carcinoma cells.",
+        "High-magnification view of cancerous epithelial clusters.",
+        "Microscopic image of tumor parenchyma under H&E."
+    ],
+    "other cell types": [
+        "H&E micrograph of benign epithelial glands in normal tissue.",
+        "40× view showing non-neoplastic epithelial lining.",
+        "Histology image depicting non-malignant glandular epithelium.",
+        "Microscopic section with normal epithelial structures.",
+        "H&E slide containing benign epithelial cells.",
+        "Pathology image of non-cancerous epithelium at high power."
+    ],
+    "inflammatory": [
+        "H&E micrograph displaying dense inflammatory infiltrate.",
+        "40× histology view of immune cell infiltration.",
+        "Pathology slide showing lymphocytic infiltrate in stroma.",
+        "High-power image of mixed inflammatory cells.",
+        "H&E section with neutrophil-rich inflammatory focus.",
+        "Microscopic picture of chronic inflammatory infiltrates."
+    ],
+    "stromal": [
+        "H&E micrograph of fibroblast-rich connective tissue stroma.",
+        "40× view highlighting collagenous connective matrix.",
+        "Histology image showing stromal connective tissue with fibroblasts.",
+        "High-magnification section of dense collagen stroma.",
+        "Microscopic slide containing fibroblast and stromal components.",
+        "H&E image of connective tissue framework."
+    ],
+    "necrotic": [
+        "H&E micrograph demonstrating coagulative necrosis.",
+        "40× histology image of dead cell region with karyorrhexis.",
+        "Pathology slide showing necrotic debris and ghost cells.",
+        "High-power section of apoptotic cell bodies in necrotic tissue.",
+        "Microscopic H&E of extensive tumor necrosis.",
+        "Histology view depicting acellular necrotic area."
+    ],
+    "infiltrative": [
+        "General H&E histopathology image with mixed tissue types.",
+        "Background region of a histology slide without diagnostic features.",
+        "H&E section containing various normal and abnormal structures."
+    ]
+}
