@@ -7,7 +7,7 @@
 echo "Job is using $SLURM_GPUS GPU(s) with ID(s) $CUDA_VISIBLE_DEVICES and $SLURM_NTASKS CPU core(s)"
 
 # Activate conda environment
-source activate mmdp
+source activate IMP
 
 # Run your GAN training script
 bash scripts/Survival/umeml_gan.sh
